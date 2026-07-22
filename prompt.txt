@@ -4,7 +4,7 @@
 #
 #  vvvvv  EDIT THIS LINE, NOTHING ELSE NEEDS TO CHANGE  vvvvv
 # =====================================================================
-I run a CI business in [YOUR CITY] focused on [YOUR NICHE]. Surface the opportunities worth a phone call.
+I run a CI business in Scottsdale, AZ focused on Luxury Home & Commercial Technology Made Simple. Surface the opportunities worth a phone call.
 # =====================================================================
 #  ^^^^^  EDIT THAT LINE ONLY. Replace [YOUR CITY] and [YOUR NICHE].
 #  Example: I run a CI business in Richmond, Virginia focused on luxury

@@ -23,7 +23,7 @@ feeds:
   - "https://nahbnow.com/feed/"                        # National Assoc. of Home Builders news
   - "https://www.constructiondive.com/feeds/news/"     # Construction industry news
   - "https://www.housingwire.com/feed/"                # Housing market news
-
+  - "https://www.phoenix.gov/newssite/SiteAssets/feed.xml"  # Official City of Phoenix news releases, announcements, city projects, and public information
 # ---------------------------------------------------------------------
 # WHERE YOUR BRIEF GETS DELIVERED.
 #
@@ -31,4 +31,5 @@ feeds:
 # free Resend account. The free tier only delivers to that address.
 # Replace the placeholder below, keep the quotes.
 # ---------------------------------------------------------------------
-email: "you@example.com"
+email: "mfrackman@aearizona.com"
+
